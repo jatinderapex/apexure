@@ -1,0 +1,11 @@
+# Site settings
+title: Apexure
+description: "Apexure Software Solutions"
+baseurl: "/apexure" 
+url: "http://jatinderapex.github.io/apexure" 
+tagline: "Apexure Software Solutions"
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
