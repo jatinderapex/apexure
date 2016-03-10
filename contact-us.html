@@ -6,13 +6,42 @@ permalink: /contact-us/
 
   <div id="header-wrapper-contact">
       {% include header.html %}
-  </div><!-- end of header-wrapper-processor -->
+  </div><!-- end of header-wrapper-contact -->
 
-  <div class="mid-section-process">
+  <div class="mid-section-contact">
     <div class="container">
         <div class="row">
           <div class="col-sm-6 col-xs-12">
-            <img src="{{site.baseurl}}/images/design-science.png" alt="mixpanel" class="img-responsive center-block">
+             <h2>SEND US A MESSAGE</h2>
+              <form class="form-horizontal" role="form">
+
+                <div class="form-group">
+                  <div class="col-xs-6">
+                    <input type="text" class="form-control" id="name" placeholder="Your name">
+                  </div>
+                  <div class="col-xs-6">
+                    <input type="email" class="form-control" id="email" placeholder="Your email">
+                  </div>
+                </div>
+
+                <div class="form-group">
+                  <div class="col-xs-12"> 
+                       <input type="text" class="form-control" id="subject" placeholder="Subject">
+                  </div>
+                </div>
+
+                <div class="form-group">
+                  <div class="col-xs-12"> 
+                     <textarea class="form-control" rows="5" id="comment" placeholder="Message"></textarea>
+                  </div>
+                </div>
+
+                <div class="form-group"> 
+                  <div class="col-xs-12">
+                    <button type="submit" class="btn btn-default">Submit</button>
+                  </div>
+                </div>
+              </form>
           </div>
           <div class="col-sm-6 col-xs-12">
               <h1>DESIGN SCIENCE</h1>
@@ -26,4 +55,4 @@ permalink: /contact-us/
           </div>
         </div>
     </div>
-  </div><!-- end of mid-section-design -->
+  </div><!-- end of mid-section-contact-->

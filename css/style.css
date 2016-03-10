@@ -234,6 +234,41 @@ display: inline-block;
     font-weight: bold;
     margin-bottom: 25px;
 }
+#header-wrapper-contact{
+        background: #f47d62;
+    padding-bottom: 165px;
+}
+.mid-section-contact h2 {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    text-align: left;}
+
+.mid-section-contact{
+    padding: 60px 0px;
+}
+.mid-section-contact .form-horizontal{
+    margin-top: 25px;
+}
+.mid-section-contact .form-group {
+    margin-bottom: 20px;
+}
+.mid-section-contact .form-control{
+height: 40px;
+}
+.mid-section-contact textarea.form-control {
+    height: auto;
+}
+
+.mid-section-contact  .btn-default {
+    background-color: #fff;
+    border-color: transparent; 
+    background-color: #ffcf17;
+    color: #fff;
+    padding: 8px 28px;
+    font-family: "Open Sans", Arial, Tahoma, sans-serif;
+}
 .footer-left-block{
     padding: 0px 240px 0px 0px;
 }
