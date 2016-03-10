@@ -260,7 +260,19 @@ height: 40px;
 .mid-section-contact textarea.form-control {
     height: auto;
 }
-
+.mid-section-contact .contact-addr{
+        padding-left: 40px;
+}
+.mid-section-contact p{
+    font-size: 18px;
+    color: #535060;
+}
+.mid-section-contact p:nth-child(3){
+        color: #ffcf17;
+}
+.mid-section-contact .contact-addr div{
+    margin-top:20px;
+}
 .mid-section-contact  .btn-default {
     background-color: #fff;
     border-color: transparent; 
