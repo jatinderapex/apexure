@@ -1,7 +1,7 @@
 # Site settings
 title: Apexure
 description: "Apexure Software Solutions"
-baseurl: "" 
+baseurl: "http://jatinderapex.github.io/" 
 url: "http://jatinderapex.github.io/" 
 tagline: "Apexure Software Solutions"
 
